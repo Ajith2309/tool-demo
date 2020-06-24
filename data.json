@@ -1,0 +1,34 @@
+{
+	"Installation": [
+		{
+			"Question": "Types of Installation",
+			"Answer": "Installation Types - Scratch, Upgrade and Patch installation"
+		},
+		{
+			"Question": "How to do Upgrade/Patch installation",
+			"Answer": "Upload the Upgrade/Patch packages into KTC and push this package to configured ATM"
+		}
+	],
+	"KTC": [
+
+		{
+			"Question": "How to create a KTC node for ATM?",
+			"Answer": "Create KTC node using Node edit menu"
+		},
+		{
+			"Question": "What is the abbrevation for KTC",
+			"Answer": "Kalignite terminal Controller"
+		}
+	],
+	"Application": [
+
+		{
+			"Question": "CBNA Supported denominations",
+			"Answer": "Supported denominations are $10, $20, $50 and $100"
+		},
+		{
+			"Question": "CBNA Supported Card reader",
+			"Answer": "Supports only DIP Card reader"
+		}
+	]
+}	
